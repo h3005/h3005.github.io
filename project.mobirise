@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "LAC.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -700,7 +700,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page1.html\">洛杉磯快艇</a>",
+                "caption": "<a href=\"LAC.html\">洛杉磯快艇</a>",
                 "active": false
               },
               {
@@ -713,7 +713,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page2.html\">金洲勇士</a>",
+                "caption": "<a href=\"GSW.html\">金洲勇士</a>",
                 "active": false
               },
               {
