@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "LAC.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -843,7 +843,7 @@
         }
       ]
     },
-    "page1.html": {
+    "LAC.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "洛杉磯快艇",
@@ -1538,7 +1538,7 @@
         }
       ]
     },
-    "page2.html": {
+    "GSW.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "金洲勇士",
